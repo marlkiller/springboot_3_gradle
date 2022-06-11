@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "environment": {
+        "GENERATE_RANDOM_PASSWORD": "true"
+      },
+      "name": "gradle run",
+      "debugJvm": "true",
+      "type": "gradle",
+      "tasks": [
+        "run"
+      ]
+    }
+  ]
+}
